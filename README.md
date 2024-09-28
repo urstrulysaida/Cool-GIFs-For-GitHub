@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/Anmol_Codes)
+Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
@@ -377,10 +377,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 <br><br>
 
-- Opening Laptop shade Animation
-<img src="https://user-images.githubusercontent.com/74038190h/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="400">
-<br><br>
-
 - 3d Cool Statistics
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <br><br>
@@ -551,6 +547,26 @@
 
 - There are so many thoughts going through my brain
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="400">
+<br><br>
+
+- Haven't slept for solid 83 hours, but yeah I'm good
+<img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="400">
+<br><br>
+
+- code with peace
+<img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
+<br><br>
+
+- Lets code
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
+
+- Work life balance
+<img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400">
+<br><br>
+
+- coding on beach
+<img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="400">
 <br><br>
 
 - My Email
@@ -992,6 +1008,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/216658130-13d4140b-b57b-47b6-a19a-5547b42b47f6.gif" width="160" />
 <img src="https://user-images.githubusercontent.com/74038190/216658099-d7c8efef-4e2f-4cdb-8d4d-977a02bee0bc.gif" width="160" />
 <img src="https://user-images.githubusercontent.com/74038190/216658104-661d7d68-0492-49c5-92f9-6f657f10cbc7.gif" width="160" />
+<img src="https://github.com/user-attachments/assets/e2efe96d-1c06-4b13-80bb-99f33fe5cb3d" width="160" />
+<img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/79258361-c121-400c-8245-600b272b1eea" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b206f421-052b-4444-bcdb-48c41c85c18b" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/53fc5e35-28f2-4663-913c-d9a255c0918d" width="160" />
@@ -1142,8 +1160,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
 
-### Made with 💜 by [@anmol](https://twitter.com/Anmol_Codes)
+### Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 ### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
 
-Your opinion matters! Feel free to create an issue or get in touch with [Anmol Baranwal](https://github.com/Anmol-Baranwal) if you have any feedback or suggestions.
+Please create an issue or get in touch with me if you have any feedback or suggestions.
